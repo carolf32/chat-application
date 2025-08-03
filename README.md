@@ -25,8 +25,9 @@ src/config – Firebase setup and initialization </br>
 src/context -  </br>
 src/lib -  </br>
 
-## Future Improvements (optional)
-Add online/offline status
-Group chat support
-Notifications for new messages
+## Future Improvements 
+Add online/offline status  </br>
+Group chat support </br>
+Notifications for new messages </br>
+
 
