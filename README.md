@@ -31,4 +31,7 @@ Group chat support </br>
 Notifications for new messages </br>
 
 
+<img width="1808" height="840" alt="1" src="https://github.com/user-attachments/assets/63322609-5856-46dd-9ee9-de814096230c" />
+
+<img width="1822" height="827" alt="2" src="https://github.com/user-attachments/assets/8c559239-18e6-4047-a7e6-428500efc124" />
 
