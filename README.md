@@ -1,7 +1,7 @@
 # Full Stack Chat App
 This project is a full stack real-time chat application built with React JS and Firebase. It allows users to create an account, chat with friends, and send images during conversations.
 
-We use Firebase Authentication to handle login and account creation and Firestore Database to store chat messages in real time.
+I used Firebase Authentication to handle login and account creation and Firestore Database to store chat messages in real time.
 
 ## Tech Stack
 React JS – Frontend framework </br>
@@ -29,5 +29,6 @@ src/lib -  </br>
 Add online/offline status  </br>
 Group chat support </br>
 Notifications for new messages </br>
+
 
 
